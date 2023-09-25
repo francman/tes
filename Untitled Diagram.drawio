@@ -1,0 +1,26 @@
+<mxfile host="Electron" modified="2023-08-30T04:56:45.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="lWFdHoXZKmy0-Wjl-PF_" version="21.6.8" type="device">
+  <diagram name="Page-1" id="Bj_RpCMBJEzgk-xBbcl-">
+    <mxGraphModel dx="1509" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="atRic2UCsr3m6vsSttND-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="atRic2UCsr3m6vsSttND-1" target="atRic2UCsr3m6vsSttND-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="atRic2UCsr3m6vsSttND-1" value="GPS Module" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="atRic2UCsr3m6vsSttND-2" value="STM32 Micro" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="atRic2UCsr3m6vsSttND-6" value="Input Power&lt;br&gt;5V, 1.5A" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
